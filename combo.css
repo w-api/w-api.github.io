@@ -1,0 +1,36 @@
+---
+---
+{% include css/base.css %}
+{% include css/skeleton.css %}
+{% include css/main.css %}
+
+dl {
+  margin: 0 0 20px 0;
+  padding: 0 5%;
+}
+
+dt {
+  float: left;
+  clear: left;
+  width: 50%;
+  text-align: right;
+  font-weight: bold;
+}
+
+dt:after {
+  content: ":";
+}
+
+dd {
+  margin: 0 0 0 52%;
+  padding: 0 0 0.5em 0;
+}
+
+sup {
+  vertical-align: super;
+  font-size: 50%;
+}
+
+ul {
+  margin: 0 5%;
+}
