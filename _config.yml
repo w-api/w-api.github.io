@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "APItude - 1st International Workshop on API Usage and Evolution"
+title:       "WAPI - 1st International Workshop on API Usage and Evolution"
 keywords:    "ICSE, Workshop, API, Usage Patterns, Misuse"
 description: ""
 favicon:     "img/favicon.ico"
