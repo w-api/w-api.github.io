@@ -1,1 +1,1 @@
-# Website of APItude, the International Workshop on API Usage and Evolution
+# Website of WAPI, the 1st International Workshop on API Usage and Evolution
