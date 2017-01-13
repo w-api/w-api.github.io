@@ -8,6 +8,6 @@ fa-icon: newspaper-o
 - \[Nov. 29\] [Brad Myers](http://www.cs.cmu.edu/~bam/) will be WAPI '17's keynote speaker!
 
 <p style="margin: 0 auto; max-width:750px;">
-  <a class="twitter-timeline" href="https://twitter.com/wapi2017">Tweets by wapi2017</a>
+  <a class="twitter-timeline" href="https://twitter.com/wapi2017" data-height="500" data-chrome="nofooter">Tweets by wapi2017</a>
   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
