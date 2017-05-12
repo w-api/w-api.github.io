@@ -34,3 +34,12 @@ sup {
 ul {
   margin: 0 5%;
 }
+
+dt.gap, dt.gap + dd {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+hr {
+  margin: 20px auto;
+}
