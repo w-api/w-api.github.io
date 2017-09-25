@@ -35,3 +35,4 @@ colors:
 kramdown:
   auto_ids:  false
 
+future: true
