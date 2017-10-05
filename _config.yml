@@ -36,3 +36,5 @@ kramdown:
   auto_ids:  false
 
 future: true
+
+twitter: wapi2018
