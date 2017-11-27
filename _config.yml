@@ -38,3 +38,6 @@ kramdown:
 future: true
 
 twitter: wapi2018
+
+plugins:
+    - jekyll-redirect-from
