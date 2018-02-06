@@ -39,6 +39,7 @@ kramdown:
 future: true
 
 twitter: wapi2018
+orga-mail: w-api@googlegroups.com
 
 plugins:
     - jekyll-redirect-from
